@@ -1,0 +1,2 @@
+class RosRetrieverException(Exception):
+    pass
